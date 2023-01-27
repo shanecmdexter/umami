@@ -95,6 +95,8 @@ docker compose pull
 docker compose up --force-recreate
 ```
 
+# Triggering Deploy 15:00-27-01-2023
+
 ## License
 
 MIT
